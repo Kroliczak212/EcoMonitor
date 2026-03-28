@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/gios/:path*", "destination": "https://api.gios.gov.pl/pjp-api/v1/rest/:path*" }
+  ]
+}
